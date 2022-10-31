@@ -1,0 +1,8 @@
+.DS_Store
+
+config/
+
+**/__pycache__/
+
+*.log
+!model.log
